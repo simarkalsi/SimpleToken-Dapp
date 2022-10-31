@@ -1,0 +1,46 @@
+.div2{
+    display: flex;
+    background-color: rgba(141, 141, 141, 0.18);
+    border-radius: 10px;
+    margin: 10px 0px 10px 0px;
+    
+   
+
+}
+p{
+    margin: 0px;
+    padding: 10px;
+
+    
+}
+.div3{
+    border: 1px solid #000;
+    
+
+  
+}
+.div4{
+    border: 1px solid #000;
+    width: 100%;
+    text-align: left;
+}
+input[type=text],input[type=number] {
+    background-color: transparent;
+    border: 0px;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    color: white;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: .4; /* Firefox */
+  }
+  h2{
+    margin-bottom: 20px;
+  }

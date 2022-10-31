@@ -1,0 +1,35 @@
+
+h1 {
+    font-size: 72px;
+    color: #fff;
+    /* background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    font-size: 50px;
+   margin-bottom: 60px;
+
+    padding: 0%;
+  }
+  .div1{
+        /* blur background*/
+    background-color: rgba(0, 0, 0, 0.29);
+    margin :30px 30%;
+    top: 50%;
+    padding: 30px;
+    align-items: center;
+    align-self: center;
+    border-radius: 10px;
+    /* shadown behind card*/
+    box-shadow: 5px 5px 5px rgb(22, 109, 201);
+    
+  }
+  button{
+    font-size: 20px;
+    padding: 5px 10px;
+    font-style: bold;
+    background-color: #0d5ff1;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+
+  }

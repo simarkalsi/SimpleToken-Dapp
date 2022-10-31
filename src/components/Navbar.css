@@ -1,0 +1,10 @@
+.transparent{
+    background: rgba(12, 116, 244, 0.5);
+}
+.margin{
+    margin: auto 0px auto 20px;
+    font-size: 18px;
+}
+.title{
+    font-size: 30px;
+}
