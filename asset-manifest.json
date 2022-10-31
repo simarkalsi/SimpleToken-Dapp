@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleToken-Dapp/static/css/main.36fe0803.css",
+    "main.js": "/SimpleToken-Dapp/static/js/main.39bb8e25.js",
+    "static/js/787.e484199f.chunk.js": "/SimpleToken-Dapp/static/js/787.e484199f.chunk.js",
+    "index.html": "/SimpleToken-Dapp/index.html",
+    "main.36fe0803.css.map": "/SimpleToken-Dapp/static/css/main.36fe0803.css.map",
+    "main.39bb8e25.js.map": "/SimpleToken-Dapp/static/js/main.39bb8e25.js.map",
+    "787.e484199f.chunk.js.map": "/SimpleToken-Dapp/static/js/787.e484199f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36fe0803.css",
+    "static/js/main.39bb8e25.js"
+  ]
+}
