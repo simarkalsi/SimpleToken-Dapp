@@ -1,1 +1,1 @@
-Link: www.simple-token-dapp.vercel.app
+Link: https://simple-token-dapp.vercel.app/
